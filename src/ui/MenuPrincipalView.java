@@ -18,12 +18,13 @@ import javax.swing.JOptionPane;
  */
 public class MenuPrincipalView extends javax.swing.JFrame {
 
-    /**
-     * Creates new form MenuPrincipalView
-     */
+    
+    
+    
     public MenuPrincipalView() {
     initComponents();
     setLocationRelativeTo(null);
+    
 }
 
     /**
